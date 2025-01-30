@@ -278,6 +278,11 @@ export default {
               route: 'integrations/defectDojo',
             },
             {
+              component: 'GitlabIntegration',
+              name: this.$t('admin.gitlab_integration'),
+              route: 'integrations/gitlab',
+            },
+            {
               component: 'FortifySsc',
               name: this.$t('admin.fortify_ssc'),
               route: 'integrations/fortifySSC',
