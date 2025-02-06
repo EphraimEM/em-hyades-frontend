@@ -112,8 +112,6 @@
     "github_advisories": "GitHub Advisories",
     "gitlab_integration": "GitLab",
     "integration_gitlab_enable": "Enable GitLab Integration",
-    "gitlab_host": "GitLab Host",
-    "gitlab_group_name": "GitLab Group Name",
     "go_modules": "Go Modules",
     "group": "Group",
     "hackage": "Hackage",
