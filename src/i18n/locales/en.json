@@ -110,7 +110,7 @@
     "general_template_configuration": "General template configuration",
     "github": "GitHub",
     "github_advisories": "GitHub Advisories",
-    "gitlab_integration": "GitLab Integration",
+    "gitlab_integration": "GitLab",
     "integration_gitlab_enable": "Enable GitLab Integration",
     "gitlab_host": "GitLab Host",
     "gitlab_group_name": "GitLab Group Name",

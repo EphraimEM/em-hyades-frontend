@@ -1,9 +1,9 @@
 {
-  "API_BASE_URL": "",
+  "API_BASE_URL": "http://localhost:8081",
   "API_WITH_CREDENTIALS": "",
-  "OIDC_CLIENT_ID": "",
+  "OIDC_CLIENT_ID": "6dd018d604644ad30acc559ac1de15c457765a21ce503b658027b63a10a2be71",
   "OIDC_FLOW": "code",
-  "OIDC_ISSUER": "",
-  "OIDC_LOGIN_BUTTON_TEXT": "",
+  "OIDC_ISSUER": "https://gitlab.us.lmco.com",
+  "OIDC_LOGIN_BUTTON_TEXT": "LM SSO",
   "OIDC_SCOPE": "openid email profile"
 }
